@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://petgram.cvillafraz.now.sh/",
+    "chromeWebSecurity": false,
+    "viewportWidth": 480,
+    "viewportHeight": 640
+}
